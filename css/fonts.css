@@ -1,0 +1,29 @@
+
+@font-face {
+			font-family: "SourceSansProRegular";
+			src: url("fonts/SourceSansProRegular.eot");
+			src: url("fonts/SourceSansProRegular.eot?#iefix")format("embedded-opentype"),
+			url("fonts/SourceSansProRegular.woff") format("woff");
+
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "SourceSansProLight";
+			src: url("fonts/SourceSansProLight.eot");
+			src: url("fonts/SourceSansProLight.eot?#iefix")format("embedded-opentype"),
+			url("fonts/SourceSansProLight.woff") format("woff");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "SourceSansProBold";
+			src: url("fonts/SourceSansProBold.eot");
+			src: url("fonts/SourceSansProBold.eot?#iefix")format("embedded-opentype"),
+			url("fonts/SourceSansProBold.woff") format("woff");
+
+			font-style: normal;
+			font-weight: normal;
+	}
